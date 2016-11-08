@@ -11,6 +11,8 @@ I outsourced the python code of tvheadend to create a reusable HTSP client libra
 
 ## scripts/merge_channels.py ##
 
+Before you start, enter your server settings (hostname, username, password) in this file.
+
 A small demonstration of the api to create a merged channel:
 
 - Lookup the channels by entering the name
