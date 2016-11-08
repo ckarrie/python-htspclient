@@ -21,3 +21,5 @@ A small demonstration of the api to create a merged channel:
 - optional: disable old channels
 
 Just run the code with python2.
+
+![NBj8BqM.png](https://bitbucket.org/repo/opqn7a/images/324472350-NBj8BqM.png)
